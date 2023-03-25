@@ -6,7 +6,6 @@ from torch.autograd import Variable
 import numpy as np
 from tqdm import tqdm
 import Levenshtein
-from colorama import Fore
 from tqdm.autonotebook import tqdm
 
 # Class for generating adversarial attack 
